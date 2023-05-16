@@ -1,0 +1,3 @@
+# EXAMCalculator
+
+AUTHOR SAWERA MUSHTAQ
